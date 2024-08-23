@@ -75,3 +75,16 @@ Following are the security practices that everyone should follow:
 ## 4. Did we do good enough?
 - we can monitor the applications , penetration testings , secutity audit
 - Ask the customers feedback for the security review.
+
+### Sources
+
+Karvinen, T. 2024. Information Security Course. URL: https://terokarvinen.com/information-security/ Accessed: 21 August 2024
+
+Braiterman et al. 2020. Threat modelling manifesto. URL: https://www.threatmodelingmanifesto.org/ Accessed: 21 August 2024
+
+OWASP Cheat Sheet Series Team. 2021. Threat Modelling Cheat Sheet. URL: https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html Accessed: 21 August 2024
+
+DarkNetDiaries podcast : https://darknetdiaries.com/episode/148/
+
+
+
